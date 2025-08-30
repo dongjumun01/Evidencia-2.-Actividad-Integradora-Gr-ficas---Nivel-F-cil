@@ -22,6 +22,6 @@ La implementación de los tres patrones descritos demuestra la aplicación de co
 
 ## Recursos
 Video demostrativo: https://drive.google.com/file/d/1_fHV1xn6xxPlSXmjDshI3rtFzRqwnO4B/view?usp=sharing
-Repositorio en GitHub:
-https://github.com/dongjumun01/Evidencia_2_Actividad_Integradora_Graficas_Nivel_Facil.git
+
+Repositorio en GitHub: https://github.com/dongjumun01/Evidencia_2_Actividad_Integradora_Graficas_Nivel_Facil.git
 
